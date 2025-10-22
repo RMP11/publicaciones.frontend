@@ -1,8 +1,8 @@
 import DataTable from 'primevue/datatable';
 import PrimeVue from 'primevue/config';
-import { TABLE_NRO_ROWS } from './constants/env.const';
-import OSidebar from '@/components/OSidebar/OSidebar.vue';
 import InputText from 'primevue/inputtext';
+import { TABLE_NRO_ROWS } from './env.const';
+import OSidebar from '../components/OSidebar/OSidebar.vue';
 
 setDefault(
   DataTable,

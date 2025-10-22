@@ -1,0 +1,1 @@
+export const TABLE_NRO_ROWS = 10
