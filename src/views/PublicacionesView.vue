@@ -35,7 +35,7 @@ onMounted(() => {
   <div class="h-screen p-2">
     <div class="flex justify-between">
       <Button class="invisible">Administrar</Button>
-      <h2 class="text-center text-5xl">Publicaciones</h2>
+      <h2 class="text-center text-5xl">Publicaciones 1.1</h2>
       <Button @click="$router.push('login')">Administrar</Button>
     </div>
 
